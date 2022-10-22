@@ -26,6 +26,14 @@
     <string name="action_settings">Settings</string>
 
     <string name="menu_home">Orders</string>
+    <string name="tex_table">Choose your table</string>
+    <string name="tex_Ntable">Table Number</string>
+
     <string name="menu_gallery">Menu</string>
+    <string name="tex_menu">todays Menu</string>
+
+
     <string name="menu_slideshow">Slideshow</string>
+
+
 </resources>

@@ -26,7 +26,14 @@
     <string name="action_settings">Ajustes</string>
 
     <string name="menu_home">Pedido</string>
+    <string name="tex_table">Escoja su Mesa</string>
+    <string name="tex_Ntable">Numero De Mesa</string>
+
     <string name="menu_gallery">Menu</string>
+    <string name="tex_menu">Menu del Dia</string>
+
     <string name="menu_slideshow">Slideshow</string>
+
+
 
 </resources>
