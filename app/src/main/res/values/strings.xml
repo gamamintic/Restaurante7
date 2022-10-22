@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Restaurant 7</string>
+    <string name="tex_username">UserName</string>
+    <string name="tex_password">Password</string>
+    <string name="hint_password">your Password</string>
+    <string name="tex_login">LOGIN</string>
+    <string name="tex_checkin">Check In</string>
+    <string name="tex_welcome">Welcome</string>
+    <string name="tex_user">Ciclo 4</string>
+    <string name="tex_introduction">Introduction</string>
+    <string name="tex_class1">class 1</string>
+    <string name="tex_notpass">Invalid username or password"</string>
+    <string name="tex_firsname">Firs Name</string>
+    <string name="tex_secondname">Second Name</string>
+    <string name="tex_phone">Phone</string>
+    <string name="tex_email">Email</string>
+    <string name="tex_send">Send</string>
+
+
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Restaurant 7</string>
+    <string name="nav_header_subtitle">Restaurant7@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Orders</string>
+    <string name="menu_gallery">Menu</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
