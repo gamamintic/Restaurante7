@@ -19,6 +19,7 @@
     <string name="tex_cancel">Cancel</string>
     <string name="tex_add">add</string>
     <string name="tex_recover">Recover Pass</string>
+    <string name="tex_ask">Ask</string>
 
     <string name="title_activity_main2">MainActivity2</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>

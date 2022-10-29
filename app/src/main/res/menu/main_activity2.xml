@@ -7,11 +7,13 @@
         android:id="@+id/action_settings"
         android:orderInCategory="100"
         android:title="@string/action_settings"
+        android:icon="@color/material_dynamic_neutral_variant40"
         app:showAsAction="never" />
 
     <item
         android:id="@+id/action_helm"
         android:orderInCategory="100"
         android:title="@string/action_by"
+        android:icon="@color/material_dynamic_neutral_variant40"
         app:showAsAction="never" />
 </menu>
