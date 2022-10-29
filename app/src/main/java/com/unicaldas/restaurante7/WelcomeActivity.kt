@@ -32,7 +32,7 @@ class WelcomeActivity : AppCompatActivity() {
                 val negativeButton = { _: DialogInterface, _: Int -> }
                 val dialog = AlertDialog.Builder(this)
                     .setTitle(R.string.tex_welcome)
-                    .setMessage("User:" + edtCorreo!!.text.toString())
+                    .setMessage("USUARIO: " + edtCorreo!!.text.toString())
                     .setPositiveButton("OK", positiveButton)
                     .setNegativeButton(
                         getResources().getString(R.string.tex_cancel),

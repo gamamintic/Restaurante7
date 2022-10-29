@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="26dp"
-        android:layout_weight="0"
+        android:layout_weight="1"
         android:gravity="center"
         android:orientation="horizontal">
 
@@ -28,6 +28,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="16dp"
+        android:layout_weight="2"
         android:gravity="center_vertical"
         android:orientation="vertical">
 
@@ -63,6 +64,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/hint_password"
+            android:inputType="textPassword"
             android:minHeight="48dp"
             android:textColor="@color/white" />
 
@@ -70,7 +72,7 @@
             android:id="@+id/btnLogin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="25dp"
+            android:layout_marginTop="20dp"
             android:onClick="onLogin"
             android:text="@string/tex_login" />
 
@@ -78,9 +80,16 @@
             android:id="@+id/btncheckin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="25dp"
+            android:layout_marginTop="20dp"
             android:onClick="onLogin2"
             android:text="@string/tex_checkin" />
 
+        <Button
+            android:id="@+id/btnRecover"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:onClick="onLogin4"
+            android:text="@string/tex_recover" />
     </LinearLayout>
 </LinearLayout>

@@ -10,12 +10,15 @@
     <string name="tex_introduction">Introduction</string>
     <string name="tex_class1">class 1</string>
     <string name="tex_notpass">Invalid username or password"</string>
+    <string name="tex_notpass2">Clear username or password"</string>
     <string name="tex_firsname">Firs Name</string>
     <string name="tex_secondname">Second Name</string>
     <string name="tex_phone">Phone</string>
     <string name="tex_email">Email</string>
     <string name="tex_send">Send</string>
     <string name="tex_cancel">Cancel</string>
+    <string name="tex_add">add</string>
+    <string name="tex_recover">Recover Pass</string>
 
     <string name="title_activity_main2">MainActivity2</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -24,6 +27,7 @@
     <string name="nav_header_subtitle">Restaurant7@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+    <string name="action_by">made by</string>
 
     <string name="menu_home">Orders</string>
     <string name="tex_table">Choose your table</string>
@@ -35,5 +39,21 @@
 
     <string name="menu_slideshow">Domiciles</string>
 
+    <string name="app_lista">Spinner</string>
+    <string-array name="lista">
+        <item>todays menu</item>
+        <item>Menu 1</item>
+        <item>Menu 2</item>
+        <item>Menu 3</item>
+    </string-array>
+
+    <string name="app_lista2">Spinner</string>
+    <string name="escoja_el_menu">Escoja el Menu</string>
+    <string-array name="lista2">
+        <item>Table one</item>
+        <item>Table two </item>
+        <item>Table three</item>
+        <item>Table four</item>
+    </string-array>
 
 </resources>

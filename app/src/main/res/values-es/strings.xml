@@ -9,13 +9,16 @@
     <string name="tex_user">Ciclo 4</string>
     <string name="tex_introduction">Introduccion</string>
     <string name="tex_class1">clase 1</string>
-    <string name="tex_notpass">usuario contraseña no valido"</string>
+    <string name="tex_notpass">Usuario o Contraseña no valido"</string>
+    <string name="tex_notpass2">Borre datos de usuario o contraseña"</string>
     <string name="tex_firsname">Nombres</string>
     <string name="tex_secondname">Apellidos</string>
     <string name="tex_phone">Celular</string>
     <string name="tex_email">Email</string>
     <string name="tex_send">Enviar</string>
     <string name="tex_cancel">Cancelar</string>
+    <string name="tex_add">Adicionar</string>
+    <string name="tex_recover">Recuperar Contraseña</string>
 
 
     <string name="title_activity_main2">MainActivity2</string>
@@ -25,6 +28,7 @@
     <string name="nav_header_subtitle">Restaurante7@android.com</string>
     <string name="nav_header_desc">Navegacion</string>
     <string name="action_settings">Ajustes</string>
+    <string name="action_by">Realizado Por</string>
 
     <string name="menu_home">Pedido</string>
     <string name="tex_table">Escoja su Mesa</string>
@@ -35,6 +39,19 @@
 
     <string name="menu_slideshow">Domicilios</string>
 
+    <string name="app_lista">Spinner</string>
+    <string-array name="lista">
+        <item>Menu del dia</item>
+        <item>Menu 1</item>
+        <item>Menu 2</item>
+        <item>Menu 3</item>
+    </string-array>
 
-
+    <string name="app_lista2">Spinner</string>
+    <string-array name="lista2">
+        <item>mesa uno</item>
+        <item>mesa dos </item>
+        <item>mesa tres</item>
+        <item>mesa cuatro</item>
+    </string-array>
 </resources>
