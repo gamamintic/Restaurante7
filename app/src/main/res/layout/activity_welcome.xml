@@ -130,18 +130,20 @@
                 android:layout_height="wrap_content"
                 android:minHeight="38dp"
                 android:textColor="@color/white" />
+
+
         </LinearLayout>
 
 
     </LinearLayout>
 
-     <Button
-         android:id="@+id/btnSend"
-         android:layout_width="174dp"
-         android:layout_height="wrap_content"
-         android:layout_marginTop="25dp"
-         android:onClick="onLogin3"
-         android:text="@string/tex_send" />
-
+    <Button
+        android:id="@+id/btnSend"
+        android:layout_width="174dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:gravity="center"
+        android:onClick="onLogin3"
+        android:text="@string/tex_send" />
 
 </LinearLayout>
